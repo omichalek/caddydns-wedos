@@ -3,8 +3,8 @@ module github.com/caddy-dns/wedos
 go 1.25.5
 
 require (
-	github.com/caddyserver/caddy/v2 v2.10.2
-	github.com/libdns/wedos v1.0.4
+	github.com/caddyserver/caddy/v2 v2.11
+	github.com/omichalek/libdns-wedos v1.0.4
 )
 
 // For local testing
