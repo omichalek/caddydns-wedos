@@ -1,4 +1,4 @@
-module github.com/caddy-dns/wedos
+module github.com/omichalek/caddydns-wedos
 
 go 1.25.5
 
