@@ -5,7 +5,7 @@ import (
 
 	"github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	"github.com/libdns/wedos"
+	"github.com/omichalek/libdns-wedos" //"github.com/libdns/wedos"
 )
 
 // Provider lets Caddy read and manipulate DNS records hosted by this DNS provider.
